@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello there.
 
-<!--
-**sumtingwoong/sumtingwoong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+🧠 Passionate about AI, cyber security, and robotics
 
-Here are some ideas to get you started:
+> "General Kenobi!" – Grievous, Episode III
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Studying **Informatik (Computer Science)** at Hochschule Niederrhein  
+- 🛠 Currently building a gas-sensing autonomous vehicle (DÜP project 2025)  
+- 📚 Learning: `Python`, `C++`, `ROS`, `Linux`, `Git`, `AI/ML` basics  
+- 🛰 Interested in **space robotics**, **edge AI**, and **autonomous systems**
+
+---
+
+## 📌 Current Focus
+
+- 🤖 Prototyping autonomous mobile systems  
+- 🧠 Strengthening AI foundations (models, data, optimization)  
+- 📈 Working toward international study and research opportunities  
+
+---
+
+## 📬 Connect
+
+- 🧭 Still under construction...
+
+---
+
+> *"So uncivilized."*
