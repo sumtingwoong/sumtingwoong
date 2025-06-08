@@ -10,7 +10,7 @@
 
 - 👨‍💻 Studying **Informatik (Computer Science)** at Hochschule Niederrhein  
 - 🛠 Currently building a gas-sensing autonomous vehicle (DÜP project 2025)  
-- 📚 Learning: `Python`, `C++`, `ROS`, `Linux`, `Git`, `AI/ML` basics  
+- 📚 Learning: `Python`, `C++`, `Linux`, `Git`, `AI/ML` basics  
 - 🛰 Interested in **space robotics**, **edge AI**, and **autonomous systems**
 
 ---
