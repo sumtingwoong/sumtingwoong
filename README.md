@@ -1,8 +1,5 @@
 # 👋 Hello there!
 
-🎓 Computer Science student
-🧠 Passionate about AI, cyber security, and robotics
-
 > "General Kenobi!"
 ---
 
