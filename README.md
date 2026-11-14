@@ -10,9 +10,6 @@
 
 - 👨‍💻 Studying **Computer Science** 
 - 📚 Learning: `Python`, `C++`, `Linux`, `Git`, `AI/ML` basics  
-- 🛰 Interested in **space robotics**, **edge AI**, and **autonomous systems**
-
----
 
 ---
 
